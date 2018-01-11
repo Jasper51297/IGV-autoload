@@ -1,7 +1,7 @@
 # IGV-autoload
 Script to enhance the process of visualisation in IGV
 
-This function makes it easier to use the Intergrative Genomics Viewer.
+This function makes it easier to use the Intergrative Genomics Viewer.\n
 It will ask to enter a reference genome and an alignment file.
 These files will be converted and sorted. It will start IGV with
 the reference genome and the alignment specified by the user.
